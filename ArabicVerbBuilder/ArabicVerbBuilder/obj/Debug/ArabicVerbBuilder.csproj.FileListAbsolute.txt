@@ -16,3 +16,13 @@ C:\Users\Shachar\Google Drive\VisualStudio\ArabicVerbBuilder\ArabicVerbBuilder\o
 C:\Users\Shachar\Google Drive\VisualStudio\ArabicVerbBuilder\ArabicVerbBuilder\obj\Debug\ArabicVerbBuilder.MainWin.resources
 C:\Users\Shachar\Google Drive\VisualStudio\ArabicVerbBuilder\ArabicVerbBuilder\obj\Debug\ArabicVerbBuilder.Properties.Resources.resources
 C:\Users\Shachar\Google Drive\VisualStudio\ArabicVerbBuilder\ArabicVerbBuilder\obj\Debug\ArabicVerbBuilder.csproj.GenerateResource.Cache
+C:\Users\ranha\Documents\GitHub\Arabic-Verb-Builder\ArabicVerbBuilder\ArabicVerbBuilder\bin\Debug\ArabicVerbBuilder.exe.config
+C:\Users\ranha\Documents\GitHub\Arabic-Verb-Builder\ArabicVerbBuilder\ArabicVerbBuilder\bin\Debug\ArabicVerbBuilder.exe
+C:\Users\ranha\Documents\GitHub\Arabic-Verb-Builder\ArabicVerbBuilder\ArabicVerbBuilder\bin\Debug\ArabicVerbBuilder.pdb
+C:\Users\ranha\Documents\GitHub\Arabic-Verb-Builder\ArabicVerbBuilder\ArabicVerbBuilder\obj\Debug\ArabicVerbBuilder.csprojResolveAssemblyReference.cache
+C:\Users\ranha\Documents\GitHub\Arabic-Verb-Builder\ArabicVerbBuilder\ArabicVerbBuilder\obj\Debug\ArabicVerbBuilder.MainWin.resources
+C:\Users\ranha\Documents\GitHub\Arabic-Verb-Builder\ArabicVerbBuilder\ArabicVerbBuilder\obj\Debug\ArabicVerbBuilder.Properties.Resources.resources
+C:\Users\ranha\Documents\GitHub\Arabic-Verb-Builder\ArabicVerbBuilder\ArabicVerbBuilder\obj\Debug\ArabicVerbBuilder.csproj.GenerateResource.Cache
+C:\Users\ranha\Documents\GitHub\Arabic-Verb-Builder\ArabicVerbBuilder\ArabicVerbBuilder\obj\Debug\ArabicVerbBuilder.csproj.CoreCompileInputs.cache
+C:\Users\ranha\Documents\GitHub\Arabic-Verb-Builder\ArabicVerbBuilder\ArabicVerbBuilder\obj\Debug\ArabicVerbBuilder.exe
+C:\Users\ranha\Documents\GitHub\Arabic-Verb-Builder\ArabicVerbBuilder\ArabicVerbBuilder\obj\Debug\ArabicVerbBuilder.pdb

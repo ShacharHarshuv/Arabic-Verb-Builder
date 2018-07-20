@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ArabicVerbBuilder
 {
-    class Verb : ArWord
+    public class Verb : ArWord
     {
         static Exception not_supported = new Exception("Feature not supported in this build.");
         static Exception invalid_input = new Exception("Invalid input");
@@ -22,7 +22,7 @@ namespace ArabicVerbBuilder
         bool passive;
         char vowel; //AIN ALFIEL vowel in nonPast form 1
         bool pastVowelKasra;
-        int ncase; //case for nouns
+        int ncase; //case for nouns - 1, 2, 3
         bool known; //is the noun "known" - "the ..."
         int option_index; //in case we have more than one option to build, we will know if we need to build option #1 or #2
         bool isThereAnotherOption = false;

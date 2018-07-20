@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ArabicVerbBuilder 
 {
-    class ArWord : List<Letter> 
+    public class ArWord : List<Letter> 
     {
 
         public ArWord() { } //default C'tor

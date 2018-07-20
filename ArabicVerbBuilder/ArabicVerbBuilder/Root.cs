@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ArabicVerbBuilder
 {
-    class Root
+    public class Root
     {
         static Exception e = new Exception("Root must have 3 consonances!");
         static Exception illegal_character = new Exception("Illegal character was entered");

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ArabicVerbBuilder
 {
-    class Letter
+    public class Letter
     {
         //the vowels
         public const char kasra = 'ِ';
